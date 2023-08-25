@@ -9,6 +9,6 @@ During the time of our analysis, we initially performed EDA on all of the featur
 
 Next we implemented 6 machine learning algorithms Linear Regression,lasso,ridge,elasticnet,decission tree and Random Forest We did hyperparameter tuning to improve our model performance.
 
-No overfitting is seen.
-Random forest Regressor gridsearchcv gives the highest R2 score of 99% for Train Set and 92% for Test set.
-We can deploy this model.
+* No overfitting is seen.
+* Random forest Regressor gridsearchcv gives the highest R2 score of 99% for Train Set and 92% for Test set.
+* We can deploy this model.
